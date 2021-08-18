@@ -12,8 +12,7 @@ Each entry has the following keys:
 ## Download links
 
 ## Raw Clips
-A zip-file of the clips can be found at this link:
-https://liuonline-my.sharepoint.com/:u:/g/personal/johed13_liu_se/EbW2j_Dm5btBqa3XRucfuXYBBfXWviWby-0c3BkF7r8QKg?e=e37x2Z
+Download will be shortly made available, leave an issue here on the repo if you are interested in early access.
 
 The clips are encoded in mostly h264. The folder structure is:
 
