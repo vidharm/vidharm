@@ -12,7 +12,8 @@ Each entry has the following keys:
 ## Download links
 
 ## Raw Clips
-Download will be shortly made available, leave an issue here on the repo if you are interested in early access.
+For access, send an email to <a href="mailto:johan.edstedt@liu.se">johan.edstedt@liu.se</a>
+.
 
 The clips are encoded in mostly h264. The folder structure is:
 
