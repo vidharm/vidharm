@@ -7,14 +7,13 @@ Each entry has the following keys:
 
 * filename: The unique id of the clip
 * label: A single or list of labels from the label set ("BT,"7","11","15")
-* total_frames: The total number of frames in the clip (this number is adapted to the preprocessed dataset which will be released at a later time)
+* total_frames: The total number of frames in the clip (this number is adapted to the preprocessed dataset, see info below)
   
 ## Download links
 
 ## Raw Clips
-For access, send an email to <a href="mailto:johan.edstedt@liu.se">johan.edstedt@liu.se</a>
-.
-
+The raw clips are available at <a href="https://liuonline-my.sharepoint.com/:u:/g/personal/johed13_liu_se/EbW2j_Dm5btBqa3XRucfuXYBebj4upFJAiPeJsQqkUcAvg?e=RyNv1r">this url.</a>.
+The password is "vidharm". 
 The clips are encoded in mostly h264. The folder structure is:
 
 ```bash
@@ -28,6 +27,7 @@ The clips are encoded in mostly h264. The folder structure is:
 
 ## Preprocessed Images and Audio
 Since online video learning can be very CPU intensive we will also provide a preprocessed dataset containing each clip split into individual frames (jpeg encoded) + an additional log mel spectrogram for the audio.
+For access to these, please send an email to <a href="mailto:johan.edstedt@liu.se">johan.edstedt@liu.se</a>
 
 ```bash
 ├── preprocced_clips
