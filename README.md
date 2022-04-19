@@ -45,3 +45,7 @@ For access to these, please send an email to <a href="mailto:johan.edstedt@liu.s
 │   │   ├── ID_LAST.npy
 │   │   ├── ID_LAST.wav
 ```
+
+## Reproducing Results
+
+Go to https://github.com/Parskatt/is-this-harmful, for code and evaluation.
