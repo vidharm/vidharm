@@ -1,5 +1,20 @@
 # VidHarm: A dataset for detection of harmful content in video
 
+VidHarm is the first expert labeled clip based dataset for classification of harmful content in video.
+We provide 3589 different clips with expert annotations from over 300 different trailers. 
+Our dataset contains over 37 different languages, and is the most diverse to date.
+We provide the data and trained models openly for research purposes.
+
+Below we provide some representative examples of clips in our dataset.
+
+https://user-images.githubusercontent.com/22053118/166918025-d3441a5f-143e-4181-b56b-1346fc0f6a3e.mp4
+
+https://user-images.githubusercontent.com/22053118/166918064-d80a62cf-109b-42d3-9078-47a992d0f003.mp4
+
+https://user-images.githubusercontent.com/22053118/166918176-eb6f9a86-7ac5-4c1b-86e6-b006ea21b796.mp4
+
+
+
 ## Info
 
 Splits for the dataset are available in this repo. They are lists with dictionary entries saved in json format.
