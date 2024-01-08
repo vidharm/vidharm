@@ -44,6 +44,13 @@ The clips are encoded in mostly h264. The folder structure is:
 Since online video learning can be very CPU intensive we will also provide a preprocessed dataset containing each clip split into individual frames (jpeg encoded) + an additional log mel spectrogram for the audio.
 For access to these, please send an email to <a href="mailto:johan.edstedt@liu.se">johan.edstedt@liu.se</a>
 
+**New**: Unfortunately, the preprocessed dataset might be lost. We have uploaded files to preprocess the data:
+
+```bash
+python video_to_im_audio.py # by default just takes the first 5 clips (this can take a lot of space if used for all, so make sure you have space)
+python audio_to_mel_log_spectrogram.py # uses librosa
+```
+
 ```bash
 ├── preprocced_clips
 │   ├── ID_FIRST
